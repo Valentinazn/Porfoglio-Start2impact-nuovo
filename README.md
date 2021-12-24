@@ -12,4 +12,4 @@ This is my new portfolio for the Start2impact Html and Css project. I wanted to 
 
 
 
-See my work: https://progettos2ireact.netlify.app/
+See my work:  https://valentinazn.github.io/Porfoglio-Start2impact-nuovo/
